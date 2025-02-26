@@ -7,7 +7,6 @@ My Portfolio
 A Computer Science graduate from Queen Mary University of London with a strong foundation in data analysis, problem-solving, and programming. Currently in the final stages of a Data Technician Bootcamp at JustIT Training, where I have strengthened my existing skills in Python and SQL while gaining proficiency in Tableau and Power BI. This hands-on experience has enhanced my ability to manipulate, analyse, and visualise data effectively.
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [bgerguri5@gmail.com](mailto:bgerguri5@gmail.com)
 
 ### Skills
 <p align="left">
